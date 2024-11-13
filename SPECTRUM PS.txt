@@ -1,4 +1,2 @@
-194.120.116.58 www.growtopia1.com
-194.120.116.58 www.growtopia2.com
 194.120.116.58 growtopia1.com
 194.120.116.58 growtopia1.com
